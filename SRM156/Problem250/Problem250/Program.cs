@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace Problem250
 {
-    class Program
+    public class DiskSpace
     {
-        static void Main(string[] args)
+        int minDrives(int[] used, int[] total)
         {
+
+            return 0;
         }
     }
 }
